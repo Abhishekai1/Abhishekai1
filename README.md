@@ -1,72 +1,119 @@
-# 👋 Hi, I’m Abhishek Yadav (@Abhishekai1)
+<!-- ===================== PROFILE VIEWS ===================== -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhishekai1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-💡 **Mission:** Building **trustworthy, interpretable, and efficient AI systems** that advance healthcare, autonomous systems, and human–AI collaboration.
+<h1 align="center">👋 Hi, I'm Abhishek Yadav</h1>
+<h3 align="center">AI Researcher | Trustworthy AI | Biomedical & Autonomous Systems</h3>
+
+<p align="center">
+  <i>Building reliable, interpretable, and human-aligned AI systems for real-world impact.</i>
+</p>
+
+---
+
+## 💡 Mission
+
+> **Designing trustworthy, interpretable, and efficient AI systems** that advance  
+> **healthcare**, **autonomous intelligence**, and **human–AI collaboration**.
+
+I work at the intersection of **AI safety, biomedical intelligence, computer vision, and brain–computer interfaces**, translating research into deployable systems.
 
 ---
 
 ## 🔭 Research Focus
 
-* 🧠 **Brain–Computer Interfaces (BCI):** Calibration-free neural decoding for real-time AI–human collaboration.
-* 🔒 **AI Safety & Trustworthy Systems:** Hallucination detection, secure RAG pipelines, and robust generative AI.
-* 👁️ **Computer Vision & 3D Perception:** LiDAR–Camera fusion, point cloud interpolation, and deepfake forensics.
-* 🧬 **Biomedical Intelligence:** AI for cancer detection, trauma imaging, and explainable diagnostics.
+- 🧠 **Brain–Computer Interfaces (BCI)**  
+  *Calibration-free neural decoding, subject-independent learning, real-time HCI*
+
+- 🔒 **AI Safety & Trustworthy Systems**  
+  *Hallucination detection, uncertainty estimation, secure RAG pipelines*
+
+- 👁️ **Computer Vision & 3D Perception**  
+  *LiDAR–Camera fusion, point clouds, deepfake forensics*
+
+- 🧬 **Biomedical Intelligence**  
+  *Explainable AI for cancer detection & trauma diagnostics*
 
 ---
 
 ## 🏆 Flagship Projects
 
-* **[DATCAN](https://github.com/Abhishekai1/DATCAN-Deep-Learning-for-Brain-Computer-Interface)** — Deep Learning for BCIs (\~80% accuracy, 100–140 bits/min ITR).
-* **[TRIDENT](https://github.com/Abhishekai1/TRIDENT)** — AI Safety Defense Stack (uncertainty, semantic entropy, NLI).
-* **[SAFE-RAG++](https://github.com/Abhishekai1/SAFE-RAG)** — Hallucination firewall for Retrieval-Augmented Generation.
-* **3D DenseNet (Spine Fracture Detection)** — Multi-scan CT integration for trauma diagnostics.
-* **LiDAR–Camera Fusion** — Real-time multimodal perception optimized for Jetson/edge platforms.
+- **[DATCAN](https://github.com/Abhishekai1/DATCAN-Deep-Learning-for-Brain-Computer-Interface)**  
+  Domain-Adversarial TRCA-Contrastive Network for BCIs  
+  📈 ~80% accuracy | ⚡ 100–140 bits/min ITR
+
+- **[TRIDENT](https://github.com/Abhishekai1/TRIDENT)**  
+  Multi-layer AI safety defense using uncertainty & semantic entropy
+
+- **[SAFE-RAG++](https://github.com/Abhishekai1/SAFE-RAG)**  
+  Hallucination firewall for Retrieval-Augmented Generation
+
+- **3D DenseNet – Spine Fracture Detection**  
+  Multi-scan CT fusion for trauma diagnostics
+
+- **LiDAR–Camera Fusion Pipeline**  
+  Real-time perception optimized for Jetson & edge devices
 
 ---
 
 ## 📚 Publications & Contributions
 
-* 📖 **5 IEEE papers** — Medical AI, deepfake detection, and hallucination detection.
-* 📗 **2 Book chapters** — AI safety in generative models, lung cancer prediction.
-* 🎤 Active presenter at **international conferences** on computer vision and trustworthy AI.
+- 📖 **5 IEEE Research Papers** — Medical AI, deepfake detection, BCI
+- 📘 **2 Book Chapters** — AI safety & lung cancer prediction
+- 🎤 Speaker at **international conferences** on CV & trustworthy AI
 
 ---
 
-## ⚙️ Technical Stack
+## 🤝 How to Reach Me
 
-* **Languages:** Python, C++, Java
-* **Frameworks & Tools:** PyTorch, TensorFlow, ROS, Open3D, MATLAB Simulink
-* **Specialized Skills:** Sensor fusion, GNNs, XAI (SHAP, LIME), multimodal learning
-* **Edge Platforms:** NVIDIA Jetson Nano, ARM-based devices
+If you’d like to collaborate or discuss research, feel free to reach out:
+
+- 📧 **Email:** abhishekskyyadav@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abhishekskyyadav/
+- 🧑‍💻 **GitHub:** https://github.com/Abhishekai1
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/abhishekskyyadav/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="40"/></a>
+<a href="https://medium.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" width="40"/></a>
+<a href="https://www.youtube.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" height="30" width="40"/></a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
 
-* Graph Neural Networks for **drug discovery & biomedical causal inference**
-* Liquid time-constant networks for **temporal representation learning**
-* Secure, privacy-preserving AI for **IoT and autonomous platforms**
-
----
-
-## 🤝 Collaboration Goals
-
-I’m open to collaborating on:
-
-* Cutting-edge **AI Safety & Reliability frameworks**
-* **Biomedical AI & healthcare diagnostics**
-* **Autonomous robotics & multimodal perception**
-* **Human–AI interaction and accessibility**
-
----
-
-## 📫 How to Reach Me
-
-* ✉️ Email: **[abhishekskyyadav@gmail.com](mailto:abhishekskyyadav@gmail.com)**
-* 💼 [LinkedIn](https://www.linkedin.com/in/abhishekskyyadav/)
-* 📱 WhatsApp: +91 9170437009 | Line: +886 9039244305
+- Graph Neural Networks for **drug discovery**
+- Liquid Time-Constant Networks for **temporal reasoning**
+- Secure & privacy-preserving AI for **autonomous systems**
 
 ---
 
 ## ⚡ Fun Fact
 
-I bridge worlds — from **AI-driven healthcare** to **autonomous navigation** to **safety in generative AI**. My motto: *“Research isn’t just about solving problems — it’s about solving the right problems that shape the future of humanity.”*
+> I bridge worlds — from **AI-driven healthcare** to **autonomous navigation** to **safety in generative AI**.
+
+**Motto:**  
+*“Research isn’t just about solving problems — it’s about solving the right problems.”* 🚀
