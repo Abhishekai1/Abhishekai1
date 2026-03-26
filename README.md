@@ -1,5 +1,3 @@
-👋 Hi, I’m Abhishek Yadav (@Abhishekai1)
-
 <!-- ===================== PROFILE VIEWS ===================== -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abhishekai1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
