@@ -1,6 +1,7 @@
 <!-- ===================== PROFILE VIEWS ===================== -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abhishekai1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://portfolio-655v.vercel.app/" target="_blank">Portfolio<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40"/></a>
 </p>
 
 <h1 align="center">👋 Hi, I'm Abhishek Yadav</h1>
