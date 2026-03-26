@@ -1,199 +1,168 @@
-# Abhishek Yadav
+👋 Hi, I’m Abhishek Yadav (@Abhishekai1)
 
-### Trustworthy AI • Multimodal Learning • Robust & Reliable ML Systems
+<!-- ===================== PROFILE VIEWS ===================== -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhishekai1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-📍 India | 🎓 B.Tech CSE (2025)
-📧 [abhishekskyyadav@gmail.com](mailto:abhishekskyyadav@gmail.com)
+<h1 align="center">👋 Hi, I'm Abhishek Yadav</h1>
+<h3 align="center">Researcher in Trustworthy AI | Multimodal Learning | Robust ML Systems</h3>
 
-🔗 **Portfolio:** https://portfolio-655v.vercel.app/
-🔗 **LinkedIn:** https://www.linkedin.com/in/abhishekskyadav
-🔗 **GitHub:** https://github.com/Abhishekai1
-
----
-
-## 🧠 Research Vision
-
-I work at the intersection of **trustworthy AI, multimodal learning, and robustness**, with a focus on building systems that remain **reliable under real-world uncertainty, distribution shift, and noisy environments**.
-
-My research is driven by a central question:
-
-> **How can we design AI systems that not only perform well—but remain reliable, interpretable, and stable in real-world conditions?**
-
-To address this, I develop:
-
-* **Multimodal representation learning systems (LiDAR, vision, EEG, language)**
-* **Uncertainty-aware and calibration-free learning frameworks**
-* **Robust evaluation methodologies for failure modes and generalization**
-* **Safe and reliable LLM pipelines (RAG, hallucination mitigation, alignment)**
-
-🎯 **Goal:** PhD in *Trustworthy Multimodal AI*, focusing on **reasoning, uncertainty modeling, and reliable deployment of foundation models**
+<p align="center">
+  <i>Building reliable, interpretable, and robust AI systems for real-world, high-stakes environments.</i>
+</p>
 
 ---
 
-## 🔬 Selected Research Contributions
+## 💡 Mission
 
-### 🧩 DATCAN — Calibration-Free Brain-Computer Interfaces
+> **Designing trustworthy, interpretable, and reliable AI systems** that operate under  
+> **uncertainty, distribution shift, and real-world noise.**
 
-* Developed an **end-to-end neural decoding framework** robust to inter-subject and inter-session variability
-* Introduced **contrastive representation learning + domain adaptation** for EEG
-* Achieved:
+I work at the intersection of:
+- **Trustworthy AI & AI Safety**
+- **Multimodal Learning (EEG, LiDAR, Vision, LLMs)**
+- **Robustness, Generalization, and Failure Analysis**
 
-  * ~80% classification accuracy across 12 SSVEP targets
-  * 100–140 bits/min information transfer rate (1s inference)
-* 📄 *Under review (ICML 2026)*
-
----
-
-### 🛡️ TRIDENT — Robust AI Safety & Evaluation Framework
-
-* Designed a **multi-stage evaluation system** for LLM robustness
-* Analyzed:
-
-  * exposure bias
-  * retrieval-induced shifts
-  * failure modes under distribution shift
-* Achieved **~65% reduction in exposure divergence**
-* Benchmarked on large-scale datasets (MIND, Adressa)
+🎯 **Goal:** Pursuing a PhD in **Trustworthy Multimodal AI**, focusing on reliability, reasoning, and deployment of foundation models.
 
 ---
 
-### ⚡ ATLAS-RL — Reliability-Aware Learning for Multimodal Systems
+## 🔭 Research Focus
 
-* Proposed a **reliability-aware learning framework** for multimodal AI under noisy and heterogeneous inputs
-* Introduced:
+- 🧠 **Brain–Computer Interfaces (BCI)**  
+  *Calibration-free neural decoding, subject-invariant learning, real-time interaction*
 
-  * adaptive modality weighting
-  * reliability-guided fusion
-  * robustness-driven training objectives
-* Focused on **failure-aware representation learning** in real-world multimodal pipelines
-* 📄 *Manuscript targeted for ACL / EMNLP 2026*
+- 🔒 **AI Safety & Trustworthy Systems**  
+  *Hallucination mitigation, uncertainty modeling, safe RAG pipelines*
 
----
+- 🌐 **Multimodal Perception Systems**  
+  *LiDAR–camera fusion, cross-modal learning, robustness under sensor noise*
 
-### 🔍 SAFE-RAG++ — Reliable Retrieval-Augmented Generation
-
-* Developed a **modular RAG framework** for improving factual consistency in LLMs
-* Integrated:
-
-  * semantic uncertainty estimation
-  * NLI-based verification
-  * causal filtering mechanisms
-* Demonstrated **reduced hallucination rates under challenging retrieval settings**
+- 🧬 **Biomedical & Human-Centered AI**  
+  *EEG signal modeling, explainable diagnostics, real-world sensing systems*
 
 ---
 
-### 🌐 Multimodal Perception (LiDAR–Camera Fusion)
+## 🏆 Flagship Projects
 
-* Built **end-to-end fusion pipelines for 3D + visual sensing systems**
-* Addressed:
-
-  * sensor noise & sparsity
-  * temporal inconsistencies
-  * cross-modal alignment
-* Designed **robust evaluation protocols under distribution shifts**
-* Validated on **KITTI benchmark**
+- **[DATCAN](https://github.com/Abhishekai1/DATCAN-Deep-Learning-for-Brain-Computer-Interface)**  
+  Calibration-free neural decoding using contrastive + domain adaptation  
+  📈 ~80% accuracy | ⚡ 100–140 bits/min ITR | 📄 ICML 2026 (Under Review)
 
 ---
 
-### ⚙️ Physics-Informed Neural Networks (PINNs)
+- **[TRIDENT](https://github.com/Abhishekai1/TRIDENT)**  
+  Robust evaluation framework for LLM reliability and failure analysis  
+  📉 ~65% reduction in exposure divergence under distribution shift  
 
-* Implemented **physics-constrained learning for spatio-temporal systems**
-* Improved:
+---
 
-  * convergence stability
-  * generalization in low-data regimes
-  * physically consistent predictions
+- **[ATLAS-RL](https://github.com/Abhishekai1/ATLAS-RL)**  
+  Reliability-aware multimodal learning under noisy and heterogeneous inputs  
+  🔬 Adaptive modality weighting + failure-aware representation learning  
+  📄 Target: ACL / EMNLP 2026  
+
+---
+
+- **[SAFE-RAG++](https://github.com/Abhishekai1/SAFE-RAG)**  
+  Hallucination-aware retrieval-augmented generation pipeline  
+  🔍 Uncertainty estimation + NLI verification + causal filtering  
+
+---
+
+- **LiDAR–Camera Fusion Pipeline**  
+  Real-time multimodal perception system with robustness to sparsity & noise  
+  🚗 Validated on KITTI benchmark  
+
+---
+
+## 📚 Publications & Contributions
+
+- 📄 *Embedding Domain-Specific Invariances into Contrastive Learning* — **ICML 2026 (Under Review)**  
+- 📄 *Adaptive Hybrid Framework for Hallucination Detection in LLMs* — IEEE  
+- 📄 *Decoding Breast Cancer Detection (XAI Framework)* — IEEE  
+- 📄 *Thyroid Disease Prediction for Early Recurrence* — IEEE  
+- 📄 *Deepfake Detection (Spatio-Temporal Analysis)* — IEEE  
+- 📄 *3D DenseNet for Cervical Spine Fracture Detection* — IEEE (Under Publication)  
+
+- 📘 **2 Book Chapters** — AI Safety & Lung Cancer Prediction  
 
 ---
 
 ## 🧪 Research Experience
 
-### 🔬 Research Assistant — Feng Chia University, Taiwan
+### 🔬 Research Assistant — Feng Chia University, Taiwan  
 
-#### **May 2025 – Oct 2025**
+**May 2025 – Oct 2025**
+- Led research on **multimodal representation learning (LiDAR + vision)**  
+- Built **robust fusion pipelines under noisy and sparse sensing conditions**  
+- Studied **generalization under distribution shifts (temporal, spatial, sensor-level)**  
+- Designed **evaluation frameworks for reliability and failure analysis**  
 
-* Led research on **multimodal representation learning for LiDAR–vision systems**
-* Designed **end-to-end fusion pipelines** robust to noise, sparsity, and environmental variability
-* Investigated **generalization under distribution shift** (temporal, spatial, sensor-level)
-* Developed **evaluation protocols for robustness, efficiency, and failure analysis**
-
-#### **Oct 2024 – Jan 2025**
-
-* Conducted research on **robust representation learning from large-scale 3D sensor data**
-* Proposed **adaptive interpolation methods** to handle LiDAR sparsity and noise
-* Built **experimental pipelines for multimodal fusion under degraded sensing conditions**
-* Evaluated methods on **KITTI benchmark**, supporting ongoing conference submission
+**Oct 2024 – Jan 2025**
+- Developed **adaptive interpolation methods for sparse LiDAR signals**  
+- Investigated **robust representation learning from large-scale 3D data**  
+- Built pipelines for **multimodal fusion under degraded sensor inputs**  
+- Evaluated models on **KITTI benchmark**  
 
 ---
 
-## 📚 Publications & Research Output
+## ⚙️ Technical Stack
 
-* *Embedding Domain-Specific Invariances into Contrastive Learning* — **ICML 2026 (Under Review)**
-* *Adaptive Hybrid Framework for Hallucination Detection in LLMs* — IEEE
-* *Decoding Breast Cancer Detection (Explainable AI)* — IEEE
-* *Thyroid Disease Prediction for Early Recurrence* — IEEE
-* *Deepfake Detection (Spatio-Temporal + Frequency Analysis)* — IEEE
-* *3D DenseNet for Cervical Spine Fracture Detection* — IEEE (Under Publication)
+- **Languages:** Python, C++, Java, SQL  
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn  
 
-📖 **Book Chapters:**
+- **Core Areas:**  
+  - Multimodal Learning  
+  - Trustworthy AI  
+  - Contrastive Learning  
+  - Retrieval-Augmented Generation  
+  - Uncertainty Modeling  
+  - Distribution Shift Analysis  
 
-* Safety, Security, and Ethical Considerations of Generative AI
-* Lung Cancer Prediction using Machine Learning
-
----
-
-## 🛠️ Technical Expertise
-
-**Languages:** Python, C++, Java, SQL
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn
-
-**Core Research Areas:**
-
-* Trustworthy AI & Robust Machine Learning
-* Multimodal Learning & Representation Learning
-* Contrastive Learning
-* Retrieval-Augmented Generation (RAG)
-* Uncertainty Modeling & Calibration
-* Distribution Shift & Failure Mode Analysis
-
-**Tools & Systems:** Docker, AWS, Linux, Git
+- **Tools:** Docker, AWS, Linux, Git  
 
 ---
 
-## 🎯 Research Interests
+## 🌐 Connect with Me
 
-* Trustworthy & Reliable AI Systems
-* Multimodal Large Models
-* Robust Learning under Distribution Shift
-* Human-Centered & Sensor-Based AI
-* Safe and Interpretable AI
-
----
-
-## 🚀 Opportunities
-
-I am actively seeking:
-
-* 🎓 **MS / PhD positions (Fall 2026)**
-* 🤝 Research collaborations in AI/ML
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishekskyyadav/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="40"/></a>
+<a href="https://github.com/Abhishekai1" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" width="40"/></a>
+<a href="https://portfolio-655v.vercel.app/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40"/></a>
+</p>
 
 ---
 
-## ⚡ Research Profile
+## 🌱 Currently Exploring
 
-* Multi-domain research: **EEG + LiDAR + Vision + LLMs**
-* Strong focus on **robustness, reliability, and real-world deployment**
-* Experience with **end-to-end systems + theoretical modeling**
-* Multiple **IEEE publications + ICML + ACL/EMNLP targets**
+- Graph Neural Networks for **structured reasoning & biomedical AI**  
+- Liquid Neural Networks for **temporal modeling**  
+- Reliable multimodal LLM systems under **distribution shift**  
+
+---
+
+## 🤝 Collaboration Goals
+
+I’m open to collaborating on:
+- Trustworthy AI & robustness research  
+- Multimodal learning systems  
+- Biomedical & human-centered AI  
+- LLM safety and evaluation  
 
 ---
 
-## 📬 Contact
+## 📫 Contact
 
-If you're working on **trustworthy AI, multimodal systems, or robust ML**, I would be excited to collaborate.
-
-🔗 Portfolio: https://portfolio-655v.vercel.app/
-🔗 LinkedIn: https://www.linkedin.com/in/abhishekskyadav
-🔗 GitHub: https://github.com/Abhishekai1
+- 📧 Email: **abhishekskyyadav@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishekskyyadav  
+- 🌐 Portfolio: https://portfolio-655v.vercel.app/  
 
 ---
+
+## ⚡ Research Philosophy
+
+> *“Research is not just about solving problems — it’s about solving the right problems under real-world constraints.”*
+
+I focus on building AI systems that **do not fail silently**, but instead **understand uncertainty, adapt, and remain reliable in deployment**.
