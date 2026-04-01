@@ -169,6 +169,6 @@ I’m open to collaborating on:
 
 ## ⚡ Research Philosophy
 
-> *“Research is not just about solving problems — it’s about solving the right problems under real-world constraints.”*
+> *“Research is not just about solving problems — it’s about solving the right problems under real world constraints.”*
 
-I focus on building AI systems that **do not fail silently**, but instead **understand uncertainty, adapt, and remain reliable in deployment**.
+I focus on building AI systems that **do not fail silently**, but instead **understand uncertainty, adapt and remain reliable in deployment**.
