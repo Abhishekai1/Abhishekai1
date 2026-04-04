@@ -8,7 +8,7 @@
 <!-- ===================== PROFILE VIEWS ===================== -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abhishekai1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://porto-abhishek.vercel.app/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40"/></a>
+  <a href="https://portf-abhishek-ai1.vercel.app/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40"/></a>
 </p>
 
 <h1 align="center">👋 Hi, I'm Abhishek Yadav</h1>
@@ -163,7 +163,7 @@ I’m open to collaborating on:
 
 - 📧 Email: **abhishekskyyadav@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/abhishekskyyadav  
-- 🌐 Portfolio: [https://portfolio-655v.vercel.app/](https://porto-abhishek.vercel.app/)  
+- 🌐 Portfolio: https://portf-abhishek-ai1.vercel.app/ 
 
 ---
 
